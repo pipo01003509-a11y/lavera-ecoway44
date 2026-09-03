@@ -3,7 +3,34 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>LAVÉRA | كتالوج ومتجر إيكواي الرسمي</title>
+  
+  <!-- ==================== تحسين محركات البحث (SEO) ==================== -->
+  <title>LAVÉRA | كتالوج ومتجر إيكواي الرسمي - حلول التنظيف البيئية والمايكروفايبر</title>
+  <meta name="description" content="تسوق منتجات إيكواي (Ecoway) الأصلية في مصر من متجر LAVÉRA الرسمي: فوط المايكروفايبر بأيونات الفضة، صابون Coco Lab الطبيعي، منظفات Eco Touch، وعطور فاخرة مع طلب فوري عبر واتساب.">
+  <meta name="keywords" content="إيكواي, متجر إيكواي, كتالوج إيكواي, LAVERA, Ecoway, لافيرا, فوط مايكروفايبر, صابون كوكو لاب, منظفات إيكوتاتش, تنظيف بالماء فقط, منتجات بيئية">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="LAVÉRA">
+
+  <!-- وسوم المعاينة لشبكات التواصل وواتساب (Open Graph) -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ar_AR">
+  <meta property="og:title" content="LAVÉRA | كتالوج ومتجر إيكواي الرسمي">
+  <meta property="og:description" content="فوط مايكروفايبر يابانية، صابون طبيعي، وعطور فاخرة بدون كيماويات ضارة. تسوق وادفع عند الاستلام عبر واتساب.">
+  <meta property="og:image" content="https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1200&q=80">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <!-- بيانات هيكلية لروبوتات جوجل (Schema.org) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "LAVÉRA | متجر إيكواي الرسمي",
+    "description": "كتالوج ومنتجات إيكواي الأصلية وحلول التنظيف المايكروفايبر الطبيعية.",
+    "telephone": "+201097753110",
+    "priceRange": "$$"
+  }
+  </script>
+  <!-- =================================================================== -->
 
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
